@@ -1,7 +1,14 @@
-header {
+.welcome {
 	background-color: #ff9200;
 }
 header h1 {
 	font-family: 'Architects Daughter', sans-serif;
+	font-size: 60px;
 	font-style: normal;
+	padding-left: 280px;
+	padding-top: 50px;
+	color: #FFFFFF;
+}
+header button {
+  
 }
