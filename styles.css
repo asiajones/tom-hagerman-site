@@ -1,1 +1,7 @@
-/* Place style here */
+header h1 {
+	background-color: #ff9200;
+}
+.welcome {
+	font-family: 'Oswald', sans-serif;
+	font-style: normal;
+}
