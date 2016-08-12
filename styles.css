@@ -1,13 +1,15 @@
 .welcome {
 	background-color: #ff9200;
+	color: #FFFFFF;
 }
 header h1 {
 	font-family: 'Architects Daughter', sans-serif;
 	font-size: 60px;
 	font-style: normal;
-	padding-left: 280px;
-	padding-top: 50px;
+	padding-top: 25px;
 	color: #FFFFFF;
+	background-color: #E4770D;
+	text-align: center;
 }
 header button {
   
@@ -17,24 +19,28 @@ header button {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+	padding-top: 1em;
 }
 .tomviolin {
 	width: 60%;
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+	padding-top: 3em;
 }
 .tombike {
 	width: 40%;
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+	padding-top: 3em;
 }
 .tomstanding {
 	width: 65%;
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+	padding-top: 3em;
 }
 
 form {
@@ -45,7 +51,6 @@ form {
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
-    form div + div {
     margin-top: 1em;
 }
 label {
@@ -92,8 +97,46 @@ button {
     margin-left: .5em;
 }
 .name-container {
-   margin-bottom: 50px;
+   margin-bottom: 15px;
+   color: #FFFFFF;
+}
+.email-container {
+   margin-bottom: 15px;
+   color: #FFFFFF;
+}
+.message-container {
+   margin-bottom: 15px;
+   color: #FFFFFF;
+}
+.OtherLinks {
+	margin: 0;
+}
+.Video {
+	width: 560px;
+	display: block;
+	margin: auto;
+	padding-bottom: 2em;
+
+}
+.all-content {
+	width: 70%;
+	margin: auto;
+}
+.subheadings {
+	text-align: center;
 }
 
-
-
+.navbar {
+	background-color: #A62F00;
+	text-align: center;
+	padding-bottom: 13px; 
+	padding-top: 13px;
+}
+.navbar a {
+    margin-right: 25px;
+    margin-left: 25px;
+    color: #FFFFFF;
+}
+.OtherLinks a {
+	color: #FFFFFF;
+}
