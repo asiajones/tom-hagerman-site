@@ -12,3 +12,27 @@ header h1 {
 header button {
   
 }
+.tomaccordion {
+	width: 55%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.tomviolin {
+	width: 60%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.tombike {
+	width: 40%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.tomstanding {
+	width: 65%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
